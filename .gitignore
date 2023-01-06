@@ -1,0 +1,28 @@
+# IDE
+/.idea
+
+# Launcher
+/OstLan *.jar
+
+# Minecraft
+/crash-reports
+/logs
+/defaultconfigs
+/natives
+/saves
+/screenshots
+
+# Config
+/config/voicechat/voicechat-volumes.properties
+/config/jei/*-sort-order.ini
+/config/jei/world
+/config/sound_physics_remastered
+/config/oculus.properties
+
+# Custom
+/config-*
+/refs
+
+# Cache
+*cache*.*
+*.bak

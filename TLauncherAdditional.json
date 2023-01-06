@@ -1,0 +1,104 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "additionalFiles": [
+    {
+      "sha1": "42366909cc612e76208d34bf1356f05a88e08a1d",
+      "size": 7574170,
+      "path": "libraries/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-mappings.txt",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-mappings.txt"
+    },
+    {
+      "sha1": "13b4efb7b9ee37701be3ff82cf3caa01fc315d7d",
+      "size": 18041472,
+      "path": "libraries/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-srg.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-srg.jar"
+    },
+    {
+      "sha1": "e0bd62d190cd8a4078069d0bba05bf9797dc32ea",
+      "size": 12074492,
+      "path": "libraries/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-slim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-slim.jar"
+    },
+    {
+      "sha1": "e552266e2777e0045a578eb69add6f689450502a",
+      "size": 10629718,
+      "path": "libraries/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-extra.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-extra.jar"
+    },
+    {
+      "sha1": "394027886db54ff4cac9efb9f9847a5df3e315dd",
+      "size": 5314212,
+      "path": "libraries/net/minecraftforge/forge/1.19.3-44.1.0/forge-1.19.3-44.1.0-client.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.19.3-44.1.0/forge-1.19.3-44.1.0-client.jar"
+    },
+    {
+      "sha1": "d0d6a5447b2c0b81443810702f0178c2927e13f7",
+      "size": 2625869,
+      "path": "libraries/net/minecraftforge/forge/1.19.3-44.1.0/forge-1.19.3-44.1.0-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.19.3-44.1.0/forge-1.19.3-44.1.0-universal.jar"
+    },
+    {
+      "sha1": "058fdfab3b364e30d87b279c8803a612cc5b9e80",
+      "size": 112933,
+      "path": "libraries/net/minecraftforge/fmlcore/1.19.3-44.1.0/fmlcore-1.19.3-44.1.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/fmlcore/1.19.3-44.1.0/fmlcore-1.19.3-44.1.0.jar"
+    },
+    {
+      "sha1": "e0a9d17dab17f9c102e6adfc00961565a2b1e2c7",
+      "size": 16351,
+      "path": "libraries/net/minecraftforge/javafmllanguage/1.19.3-44.1.0/javafmllanguage-1.19.3-44.1.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/javafmllanguage/1.19.3-44.1.0/javafmllanguage-1.19.3-44.1.0.jar"
+    },
+    {
+      "sha1": "284cfed7c4c7cf5d6dfbb96d6f05697a762baf60",
+      "size": 4985,
+      "path": "libraries/net/minecraftforge/mclanguage/1.19.3-44.1.0/mclanguage-1.19.3-44.1.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/mclanguage/1.19.3-44.1.0/mclanguage-1.19.3-44.1.0.jar"
+    },
+    {
+      "sha1": "08b73cc225c8f1add358e3284c709eef8430af51",
+      "size": 7377,
+      "path": "libraries/net/minecraftforge/lowcodelanguage/1.19.3-44.1.0/lowcodelanguage-1.19.3-44.1.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/lowcodelanguage/1.19.3-44.1.0/lowcodelanguage-1.19.3-44.1.0.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -171261794100,
+    "name": "OstLan 1.19.3",
+    "favorite": false,
+    "version": {
+      "mods": [],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [],
+      "gameVersionDTO": {
+        "id": 43,
+        "name": "1.19.3"
+      },
+      "minecraftVersionName": {
+        "id": 3401,
+        "name": "44.1.0"
+      },
+      "id": -171261804101,
+      "name": "1.0",
+      "available": false,
+      "minecraftVersionTypes": [
+        {
+          "id": 1,
+          "name": "forge"
+        }
+      ]
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false,
+    "parser": false
+  },
+  "source": "local_version_repo",
+  "jar": "1.19.3",
+  "skinVersion": true
+}
