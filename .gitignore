@@ -12,6 +12,9 @@
 /saves
 /screenshots
 
+# Realms
+/realms_persistence.json
+
 # Config
 /config/voicechat/voicechat-volumes.properties
 /config/jei/*-sort-order.ini
